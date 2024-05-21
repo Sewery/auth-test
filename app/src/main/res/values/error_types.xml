@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="try_again">Try again. </string>
+    <string name="BAD_FORMAT_OF_EMAIL_MESSAGE">Bad format of email. </string>
+    <string name="BAD_FORMAT_OF_PASSWORD_MESSAGE">Bad format of password. </string>
+    <string name="BAD_PASSWORD_MESSAGE">You entered wrong password. </string>
+    <string name="WEAK_PASSWORD_MESSAGE">Your password is too weak (type from 6 to 30 characters). </string>
+    <string name="NO_SUCH_EMAIL">No such account with this email where found. </string>
+    <string name="EMAIL_IS_USED">This email is already used. </string>
+    <string name="NO_DISPLAY_NAME">No display name where found. </string>
+    <string name="NONE_LOGGED_ACCOUNT">You are not logged on this device. </string>
+    <string name="DIFFERENT_INTERNAL_ERROR">Unexpected error: </string>
+    <string name="UNKNOWN_ERROR">Unexpected error: </string>
+
+    <string name="CREDENTIAL_NOT_PRESENT">None google credential is present on your device. </string>
+    <string name="NOT_MATCHING_PASSWORDS">Your passwords are not the same. </string>
+</resources>
