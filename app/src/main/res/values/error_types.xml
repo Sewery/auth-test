@@ -14,4 +14,6 @@
 
     <string name="CREDENTIAL_NOT_PRESENT">None google credential is present on your device. </string>
     <string name="NOT_MATCHING_PASSWORDS">Your passwords are not the same. </string>
+
+    <string name="GOOGLE_SIGN_IN_FAILED">Google sign in failed </string>
 </resources>
